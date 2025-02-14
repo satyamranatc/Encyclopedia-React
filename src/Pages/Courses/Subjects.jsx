@@ -86,7 +86,7 @@ export default function Subjects() {
                   </div>
 
                   <div className="mt-6 flex items-center justify-between">
-                    <Link to={`/subjects/${subject.subjectName}/Topics`} >
+                    <Link to={`/subjects/${subject.subjectName}/Chapters`} >
                     <button className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:from-blue-700 hover:to-purple-700 transition-colors shadow-md hover:shadow-lg font-medium group">
                       Explore Now
                       <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
