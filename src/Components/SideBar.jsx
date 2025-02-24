@@ -13,7 +13,7 @@ export default function SideBar() {
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/subjects">Subjects</Link></li>
-          <li><Link to="/topics">Topics</Link></li>
+          <li><Link to="/">ABC</Link></li>
         </ul>
       </section>
        
